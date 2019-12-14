@@ -1,7 +1,6 @@
 package com.example.demo.exercise;
 
 import java.util.concurrent.Semaphore;
-import java.util.concurrent.locks.ReentrantReadWriteLock;
 
 /**
  * @author yubang@alibaba-inc.com
