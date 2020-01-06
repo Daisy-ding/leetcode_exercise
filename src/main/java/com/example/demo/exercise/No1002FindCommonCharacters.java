@@ -44,7 +44,7 @@ public class No1002FindCommonCharacters {
 
     public static void main(String[] args) {
         No1002FindCommonCharacters solution = new No1002FindCommonCharacters();
-        String[] inputs = new String[]{"cool","lock","cook"};
+        String[] inputs = new String[]{"cool", "lock", "cook"};
         List<String> outputs = solution.commonChars(inputs);
         for (String output : outputs) {
             System.out.println(output);

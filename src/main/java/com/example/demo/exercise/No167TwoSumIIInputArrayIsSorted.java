@@ -10,7 +10,7 @@ public class No167TwoSumIIInputArrayIsSorted {
             int j = i + 1;
             while (j < numbers.length) {
                 if (numbers[i] + numbers[j] == target) {
-                    return new int[]{i+1, j+1};
+                    return new int[]{i + 1, j + 1};
                 }
                 if (numbers[i] + numbers[j] > target) {
                     break;

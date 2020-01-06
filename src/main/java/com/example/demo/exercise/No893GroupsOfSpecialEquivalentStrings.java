@@ -48,7 +48,7 @@ public class No893GroupsOfSpecialEquivalentStrings {
 
     public static void main(String[] args) {
         No893GroupsOfSpecialEquivalentStrings solution = new No893GroupsOfSpecialEquivalentStrings();
-        String[] inputs = new String[]{"abcd","cdab","cbad","xyzz","zzxy","zzyx"};
+        String[] inputs = new String[]{"abcd", "cdab", "cbad", "xyzz", "zzxy", "zzyx"};
         System.out.println(solution.numSpecialEquivGroups(inputs));
     }
 }
