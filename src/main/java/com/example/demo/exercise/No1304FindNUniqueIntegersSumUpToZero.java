@@ -4,7 +4,7 @@ package com.example.demo.exercise;
  * @author yubang@alibaba-inc.com
  * @date 2019/12/29 3:55 下午
  */
-public class No5295FindNUniqueIntegersSumUpToZero {
+public class No1304FindNUniqueIntegersSumUpToZero {
     public int[] sumZero(int n) {
         int[] result = new int[n];
         if (n % 2 == 0) {
@@ -29,7 +29,7 @@ public class No5295FindNUniqueIntegersSumUpToZero {
     }
 
     public static void main(String[] args) {
-        No5295FindNUniqueIntegersSumUpToZero solution = new No5295FindNUniqueIntegersSumUpToZero();
+        No1304FindNUniqueIntegersSumUpToZero solution = new No1304FindNUniqueIntegersSumUpToZero();
         int[] results = solution.sumZero(1);
         for (int res : results) {
             System.out.print(res + " ");
