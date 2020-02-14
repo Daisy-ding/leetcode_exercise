@@ -1,7 +1,7 @@
 package com.example.demo.exercise;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2020/1/30 11:51 上午
  */
 public class No1332RemovePalindromicSubsequences {

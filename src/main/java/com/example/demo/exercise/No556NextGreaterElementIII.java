@@ -3,7 +3,7 @@ package com.example.demo.exercise;
 import java.util.Stack;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2020/2/9 10:35 下午
  */
 public class No556NextGreaterElementIII {

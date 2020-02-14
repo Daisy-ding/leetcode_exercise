@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2020/1/27 9:27 下午
  */
 public class No539MinimumTimeDifference {

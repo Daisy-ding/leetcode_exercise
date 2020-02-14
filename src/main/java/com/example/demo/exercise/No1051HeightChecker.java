@@ -3,7 +3,7 @@ package com.example.demo.exercise;
 import java.util.Arrays;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2019/11/24 3:15 下午
  */
 public class No1051HeightChecker {

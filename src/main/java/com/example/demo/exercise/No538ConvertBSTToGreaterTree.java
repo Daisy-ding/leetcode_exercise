@@ -1,7 +1,7 @@
 package com.example.demo.exercise;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2019/12/7 11:51 下午
  */
 public class No538ConvertBSTToGreaterTree {

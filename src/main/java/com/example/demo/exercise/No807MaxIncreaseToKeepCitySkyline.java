@@ -1,7 +1,7 @@
 package com.example.demo.exercise;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2020/2/5 11:00 下午
  */
 public class No807MaxIncreaseToKeepCitySkyline {

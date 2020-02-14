@@ -5,7 +5,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2020/1/27 11:31 下午
  */
 public class No1028RecoverATreeFromPreorderTraversal {

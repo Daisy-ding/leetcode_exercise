@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2019/12/9 12:25 上午
  */
 public class No350IntersectionOfTwoArraysII {

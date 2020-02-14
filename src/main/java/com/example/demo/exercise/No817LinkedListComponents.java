@@ -4,7 +4,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2020/2/9 10:06 下午
  */
 public class No817LinkedListComponents {

@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Set;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2020/1/4 2:59 下午
  */
 public class No667BeautifulArrangementII {

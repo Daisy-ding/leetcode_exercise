@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Stack;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2020/1/4 10:10 下午
  */
 public class No144BinaryTreePreorderTraversal {

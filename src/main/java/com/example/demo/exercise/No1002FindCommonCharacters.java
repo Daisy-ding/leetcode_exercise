@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2019/11/24 10:08 下午
  */
 public class No1002FindCommonCharacters {

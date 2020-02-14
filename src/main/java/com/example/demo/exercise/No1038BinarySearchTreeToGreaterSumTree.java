@@ -1,7 +1,7 @@
 package com.example.demo.exercise;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2020/2/5 10:18 下午
  */
 public class No1038BinarySearchTreeToGreaterSumTree {

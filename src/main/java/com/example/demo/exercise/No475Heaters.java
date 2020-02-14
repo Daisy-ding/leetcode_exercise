@@ -3,7 +3,7 @@ package com.example.demo.exercise;
 import java.util.Arrays;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2020/1/1 7:31 下午
  */
 public class No475Heaters {

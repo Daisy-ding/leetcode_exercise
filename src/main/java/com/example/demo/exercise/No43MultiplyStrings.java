@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2020/2/1 1:48 下午
  */
 public class No43MultiplyStrings {

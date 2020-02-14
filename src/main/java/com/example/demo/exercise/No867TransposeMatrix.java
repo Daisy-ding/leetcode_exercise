@@ -1,7 +1,7 @@
 package com.example.demo.exercise;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2019/11/27 11:35 下午
  */
 public class No867TransposeMatrix {

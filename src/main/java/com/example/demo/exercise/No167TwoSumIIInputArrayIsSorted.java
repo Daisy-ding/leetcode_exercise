@@ -1,7 +1,7 @@
 package com.example.demo.exercise;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2019/12/8 11:39 上午
  */
 public class No167TwoSumIIInputArrayIsSorted {

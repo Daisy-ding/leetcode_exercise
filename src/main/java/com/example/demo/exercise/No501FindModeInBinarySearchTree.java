@@ -6,7 +6,7 @@ import java.util.Map;
 import java.util.Set;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2019/12/21 12:01 上午
  */
 public class No501FindModeInBinarySearchTree {

@@ -3,7 +3,7 @@ package com.example.demo.exercise;
 import java.util.Stack;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2020/1/23 11:25 下午
  */
 public class No71SimplifyPath {

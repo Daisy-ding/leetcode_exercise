@@ -4,7 +4,7 @@ import java.util.Deque;
 import java.util.LinkedList;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2020/1/26 11:14 下午
  */
 public class No402RemoveKDigits {

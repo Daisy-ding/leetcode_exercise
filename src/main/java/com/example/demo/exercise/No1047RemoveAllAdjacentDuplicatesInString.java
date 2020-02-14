@@ -1,7 +1,7 @@
 package com.example.demo.exercise;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2019/11/26 8:46 上午
  */
 public class No1047RemoveAllAdjacentDuplicatesInString {

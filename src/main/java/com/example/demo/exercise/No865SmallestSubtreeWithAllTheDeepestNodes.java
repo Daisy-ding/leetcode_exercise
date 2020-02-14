@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2020/1/12 11:29 下午
  */
 public class No865SmallestSubtreeWithAllTheDeepestNodes {

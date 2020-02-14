@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2020/1/3 12:18 上午
  */
 public class No40CombinationSumII {

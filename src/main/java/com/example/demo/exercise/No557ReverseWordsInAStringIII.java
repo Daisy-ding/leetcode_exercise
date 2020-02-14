@@ -1,7 +1,7 @@
 package com.example.demo.exercise;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2019/11/24 5:29 下午
  */
 public class No557ReverseWordsInAStringIII {

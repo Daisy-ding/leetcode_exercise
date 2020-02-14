@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2020/2/2 7:38 下午
  */
 public class No1171RemoveZeroSumConsecutiveNodesFromLinkedList {

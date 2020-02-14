@@ -3,7 +3,7 @@ package com.example.demo.exercise;
 import java.util.Stack;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2019/12/27 2:50 下午
  */
 public class No20ValidParentheses {

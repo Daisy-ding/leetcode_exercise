@@ -6,7 +6,7 @@ import java.util.Map;
 import java.util.Set;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2019/11/29 11:11 下午
  */
 public class No884UncommonWordsFromTwoSentences {

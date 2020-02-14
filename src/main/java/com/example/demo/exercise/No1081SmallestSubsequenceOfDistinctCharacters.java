@@ -3,7 +3,7 @@ package com.example.demo.exercise;
 import java.util.Stack;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2020/1/31 10:31 下午
  */
 public class No1081SmallestSubsequenceOfDistinctCharacters {

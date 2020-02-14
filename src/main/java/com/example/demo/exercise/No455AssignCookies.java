@@ -3,7 +3,7 @@ package com.example.demo.exercise;
 import java.util.Arrays;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2019/12/18 9:43 下午
  */
 public class No455AssignCookies {

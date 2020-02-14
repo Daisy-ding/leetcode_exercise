@@ -3,7 +3,7 @@ package com.example.demo.exercise;
 import java.util.PriorityQueue;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2019/12/13 12:49 上午
  */
 public class No215KthLargestElementInAnArray {

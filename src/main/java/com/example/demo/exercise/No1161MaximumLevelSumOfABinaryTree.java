@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2020/1/19 12:25 上午
  */
 public class No1161MaximumLevelSumOfABinaryTree {

@@ -7,7 +7,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2019/11/28 10:53 下午
  */
 public class No226InvertBinaryTree {

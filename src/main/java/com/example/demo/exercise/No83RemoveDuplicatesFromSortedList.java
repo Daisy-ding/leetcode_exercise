@@ -1,7 +1,7 @@
 package com.example.demo.exercise;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2019/12/14 5:23 下午
  */
 public class No83RemoveDuplicatesFromSortedList {

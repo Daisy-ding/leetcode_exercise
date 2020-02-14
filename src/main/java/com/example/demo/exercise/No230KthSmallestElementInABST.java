@@ -3,7 +3,7 @@ package com.example.demo.exercise;
 import java.util.TreeSet;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2019/12/27 12:20 上午
  */
 public class No230KthSmallestElementInABST {

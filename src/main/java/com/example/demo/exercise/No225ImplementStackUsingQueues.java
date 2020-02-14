@@ -4,7 +4,7 @@ import java.util.Deque;
 import java.util.LinkedList;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2019/12/29 4:26 下午
  */
 public class No225ImplementStackUsingQueues {

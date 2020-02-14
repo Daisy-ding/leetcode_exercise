@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.PriorityQueue;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2020/1/6 11:21 下午
  */
 public class No1305AllElementsInTwoBinarySearchTrees {

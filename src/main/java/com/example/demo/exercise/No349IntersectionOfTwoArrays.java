@@ -4,7 +4,7 @@ import java.util.LinkedHashSet;
 import java.util.Set;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2019/12/1 7:49 下午
  */
 public class No349IntersectionOfTwoArrays {

@@ -4,7 +4,7 @@ import java.util.LinkedHashSet;
 import java.util.Set;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2019/11/30 3:36 下午
  */
 public class No575DistributeCandies {

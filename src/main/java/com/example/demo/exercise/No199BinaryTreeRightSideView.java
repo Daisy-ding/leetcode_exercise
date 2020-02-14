@@ -3,7 +3,7 @@ package com.example.demo.exercise;
 import java.util.*;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2020/1/13 11:33 下午
  */
 public class No199BinaryTreeRightSideView {

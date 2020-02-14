@@ -1,7 +1,7 @@
 package com.example.demo.exercise;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2019/11/20 8:50 上午
  */
 public class No1009ComplementOfBase10Integer {

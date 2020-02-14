@@ -1,7 +1,7 @@
 package com.example.demo.exercise;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2019/12/21 12:31 上午
  */
 public class No1010PairsOfSongsWithTotalDurationsDivisibleBy60 {

@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.List;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2019/12/5 11:34 下午
  */
 public class No448FindAllNumbersDisappearedInAnArray {

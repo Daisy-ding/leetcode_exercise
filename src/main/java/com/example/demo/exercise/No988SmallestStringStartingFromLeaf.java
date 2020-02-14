@@ -1,7 +1,7 @@
 package com.example.demo.exercise;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2020/1/15 11:06 下午
  */
 public class No988SmallestStringStartingFromLeaf {

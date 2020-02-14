@@ -3,7 +3,7 @@ package com.example.demo.exercise;
 import java.util.TreeSet;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2019/11/25 11:12 下午
  */
 public class No821ShortestDistanceToACharacter {

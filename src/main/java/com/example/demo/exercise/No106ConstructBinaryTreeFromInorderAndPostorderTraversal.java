@@ -3,7 +3,7 @@ package com.example.demo.exercise;
 import java.util.Arrays;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2020/1/15 10:12 下午
  */
 public class No106ConstructBinaryTreeFromInorderAndPostorderTraversal {

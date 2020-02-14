@@ -3,7 +3,7 @@ package com.example.demo.exercise;
 import java.util.*;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2020/1/29 12:08 上午
  */
 public class No1169InvalidTransactions {

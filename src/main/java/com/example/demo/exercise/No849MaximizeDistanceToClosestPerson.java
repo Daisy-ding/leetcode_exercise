@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2019/12/26 10:55 下午
  */
 public class No849MaximizeDistanceToClosestPerson {

@@ -6,7 +6,7 @@ import java.util.Map;
 import java.util.stream.Collectors;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2019/11/24 4:11 下午
  */
 public class No811SubdomainVisitCount {

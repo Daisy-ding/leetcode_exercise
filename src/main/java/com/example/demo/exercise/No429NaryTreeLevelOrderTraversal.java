@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Queue;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2020/1/10 11:18 下午
  */
 public class No429NaryTreeLevelOrderTraversal {

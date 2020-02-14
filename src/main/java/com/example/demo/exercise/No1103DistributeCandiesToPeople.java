@@ -1,7 +1,7 @@
 package com.example.demo.exercise;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2019/11/30 3:40 下午
  */
 public class No1103DistributeCandiesToPeople {

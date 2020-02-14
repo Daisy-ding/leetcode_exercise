@@ -4,7 +4,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2020/1/10 9:54 下午
  */
 public class No117PopulatingNextRightPointersInEachNodeII {

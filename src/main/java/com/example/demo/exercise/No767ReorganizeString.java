@@ -4,7 +4,7 @@ import java.util.Comparator;
 import java.util.PriorityQueue;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2020/1/20 11:39 下午
  */
 public class No767ReorganizeString {

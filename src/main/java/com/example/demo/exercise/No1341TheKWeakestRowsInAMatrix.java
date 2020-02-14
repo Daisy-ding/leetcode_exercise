@@ -5,7 +5,7 @@ import java.util.Comparator;
 import java.util.List;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2020/2/2 2:34 下午
  */
 public class No1341TheKWeakestRowsInAMatrix {

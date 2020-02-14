@@ -3,7 +3,7 @@ package com.example.demo.exercise;
 import java.util.*;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2020/1/23 8:22 下午
  */
 public class No791CustomSortString {

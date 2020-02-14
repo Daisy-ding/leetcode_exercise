@@ -5,7 +5,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2019/12/4 11:22 下午
  */
 public class No690EmployeeImportance {

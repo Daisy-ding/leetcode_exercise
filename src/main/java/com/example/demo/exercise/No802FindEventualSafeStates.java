@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Set;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2020/2/6 10:18 上午
  */
 public class No802FindEventualSafeStates {

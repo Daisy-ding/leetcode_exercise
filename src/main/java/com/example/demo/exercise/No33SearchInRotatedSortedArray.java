@@ -1,7 +1,7 @@
 package com.example.demo.exercise;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2020/1/29 4:30 下午
  */
 public class No33SearchInRotatedSortedArray {

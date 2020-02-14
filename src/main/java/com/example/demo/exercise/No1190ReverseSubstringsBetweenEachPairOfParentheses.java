@@ -3,7 +3,7 @@ package com.example.demo.exercise;
 import java.util.Stack;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2020/1/26 12:54 上午
  */
 public class No1190ReverseSubstringsBetweenEachPairOfParentheses {

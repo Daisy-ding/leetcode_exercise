@@ -6,7 +6,7 @@ import java.util.Map;
 import java.util.Set;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2019/12/12 11:36 下午
  */
 public class No997FindTheTownJudge {

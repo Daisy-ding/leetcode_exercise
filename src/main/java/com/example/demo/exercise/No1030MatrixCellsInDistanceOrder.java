@@ -7,7 +7,7 @@ import java.util.Map;
 import java.util.stream.Collectors;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2019/11/26 10:47 下午
  */
 public class No1030MatrixCellsInDistanceOrder {

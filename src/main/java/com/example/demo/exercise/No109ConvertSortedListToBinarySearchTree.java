@@ -1,7 +1,7 @@
 package com.example.demo.exercise;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2020/1/18 11:34 下午
  */
 public class No109ConvertSortedListToBinarySearchTree {

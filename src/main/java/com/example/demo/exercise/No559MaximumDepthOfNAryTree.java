@@ -3,7 +3,7 @@ package com.example.demo.exercise;
 import java.util.List;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2019/11/24 5:21 下午
  */
 public class No559MaximumDepthOfNAryTree {

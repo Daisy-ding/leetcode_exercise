@@ -3,7 +3,7 @@ package com.example.demo.exercise;
 import java.util.TreeSet;
 
 /**
- * @author yubang@alibaba-inc.com
+ * @author yubang
  * @date 2019/12/14 1:35 下午
  */
 public class No453MinimumMovesToEqualArrayElements {
